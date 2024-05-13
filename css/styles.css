@@ -1,0 +1,124 @@
+.logo1{
+   margin-left: 100px;
+   margin-top: 30px;
+   
+}
+
+
+.header-item {
+    justify-content: space-around;
+    margin-right: 50px;
+    font-size: 17px;
+    font-weight: 400;
+    color: #636060;
+}
+
+.ul{
+    margin-top: 50px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.background{
+    position: relative;
+    width: 1500px;
+    background-image: url(../images/picture1.svg);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+}
+
+.text{
+    position: absolute;
+	top: 300px;
+	left: 500px;
+	font-size: 80px;
+	font-weight: 700;
+	color: white;
+}
+
+.text2{
+    position: absolute;
+    top: 420px;
+    left: 600px;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+
+
+.container{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-between;
+
+}
+
+
+.left-side{
+    margin-left: 100px;
+    margin-top: 50px;
+  
+  }
+.h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #636060; 
+}
+
+.h1{
+    font-size: 28px ;
+    font-weight:400 ;
+    color: #010101;
+    margin-top: 10px;
+}
+
+.p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #636060;
+    width: 220px;
+    margin-top: 60px;
+    
+}
+
+.right-side{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 100px;
+    
+}
+
+.image{
+  width: 286px;
+  height: 195px;
+  margin-top: 50px;
+  
+
+}
+
+.p1{
+    font-size: 18px;
+    font-weight: 400;
+    width: 286px;
+    color: #636060;
+   
+}
+
+.h{
+    font-size: 20px;
+    font-weight: 400;
+    width: 270px;
+    color: #343232;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
